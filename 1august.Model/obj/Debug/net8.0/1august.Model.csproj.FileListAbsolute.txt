@@ -1,0 +1,12 @@
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\bin\Debug\net8.0\1august.Model.deps.json
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\bin\Debug\net8.0\1august.Model.dll
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\bin\Debug\net8.0\1august.Model.pdb
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\1august.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\1august.Model.AssemblyInfoInputs.cache
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\1august.Model.AssemblyInfo.cs
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\1august.Model.csproj.CoreCompileInputs.cache
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\1august.Model.sourcelink.json
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\1august.Model.dll
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\refint\1august.Model.dll
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\1august.Model.pdb
+C:\Users\seyma\OneDrive\Masaüstü\JLProjectNew\1august\1august.Model\obj\Debug\net8.0\ref\1august.Model.dll
